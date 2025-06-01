@@ -1,2 +1,3 @@
 # Global-Tourism-Dashboard-Analysis
-Power BI dashboard for comprehensive analysis of global tourist arrivals: trends by region, purpose, and transport. Reveals growth, decline, and impacts of events like COVID-19 for strategic tourism insights.
+## Project Objective
+To develop a dynamic and interactive Power BI dashboard that comprehensively analyses global tourist arrival trends, identifying significant growth patterns, temporary declines during global events, and regional contributions. The objective is to provide actionable insights to policymakers and industry stakeholders for strategic planning and fostering sustainable tourism development.
