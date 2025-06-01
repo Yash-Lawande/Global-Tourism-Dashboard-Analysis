@@ -11,7 +11,8 @@ To develop a dynamic and interactive **Power BI dashboard** that analyzes global
 ## 📂 Dataset Used
 
 The analysis is based on datasets sourced from the **United Nations World Tourism Organization (UNWTO)**.
-You can find the raw data files in the [`Dataset/`](./Dataset) directory of this repository.
+📊 [Access the full dataset used for this project (UNWTO)](./unwto-all-data.xlsx)
+
 
 ---
 
